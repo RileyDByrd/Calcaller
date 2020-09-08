@@ -1,0 +1,5 @@
+MAILTO=pi@raspberrypi
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:your/home
+SHELL=/bin/bash
+
+0 8 * * * sh launch.sh
